@@ -22,7 +22,7 @@
 <div aling="center">
     <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a> •
     <a href="#finalidade-do-projeto">Finalidade do Projeto</a> •
-    <a href="#acesso-ao-código">Como ter acesso ao Código</a>
+    <a href="#como-ter-acesso-ao-código">Como ter acesso ao Código</a>
 </div>
 
 <br>
