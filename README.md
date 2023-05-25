@@ -4,7 +4,7 @@
 <p align="center">Meu primeiro projeto frontend 😊</p> 
 <br>
 
-[<img src="./src/imagens/teaser-projeto.gif" target="_blank">](https://thaleshng.github.io/projeto-pokedex/)
+[<img src="./src/imagens/teaser-projeto.gif">]<https://thaleshng.github.io/projeto-pokedex/>
 
 <div align="center">
     <img height=20em src="https://img.shields.io/badge/-HTML-orange?style=plastic"><img>
@@ -64,9 +64,9 @@ Antes de começar, vai precisar ter instalado na sua máquina as seguintes ferra
 <br>
 <br>
 
-[<a target="_blank">Git Bash</a>](https://git-scm.com)
+[>Git Bash](https://git-scm.com)
 
-[<a>VS Code</a>](https://code.visualstudio.com)
+[VS Code](https://code.visualstudio.com)
 <br>
 <br>
 
