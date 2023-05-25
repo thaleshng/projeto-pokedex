@@ -66,7 +66,7 @@ Antes de começar, vai precisar ter instalado na sua máquina as seguintes ferra
 <br>
 <br>
 
-[>Git Bash](https://git-scm.com)
+[Git Bash](https://git-scm.com)
 
 [VS Code](https://code.visualstudio.com)
 <br>
