@@ -1,10 +1,12 @@
+<!-- TODO: descobrir como abre link externo em nova aba no GitHub -->
+
 <h1 align="center">Listagem Pokémon</h1>
 <br>
 
 <p align="center">Meu primeiro projeto frontend 😊</p> 
 <br>
 
-[<img src="./src/imagens/teaser-projeto.gif">]<https://thaleshng.github.io/projeto-pokedex/>
+[<img src="./src/imagens/teaser-projeto.gif">](https://thaleshng.github.io/projeto-pokedex/)
 
 <div align="center">
     <img height=20em src="https://img.shields.io/badge/-HTML-orange?style=plastic"><img>
