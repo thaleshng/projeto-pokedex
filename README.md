@@ -4,7 +4,7 @@
 <p align="center">Meu primeiro projeto frontend 😊</p> 
 <br>
 
-[<img src="./src/imagens/teaser-projeto.gif">](https://thaleshng.github.io/projeto-pokedex/)
+[<img src="./src/imagens/teaser-projeto.gif" target="_blank">](https://thaleshng.github.io/projeto-pokedex/)
 
 <div align="center">
     <img height=20em src="https://img.shields.io/badge/-HTML-orange?style=plastic"><img>
@@ -31,15 +31,15 @@
 <h2 align="center">Tecnologias Utilizadas</h2>
 <br>
 
-[<img alt="HTML" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">](https://www.devmedia.com.br/o-que-e-o-html5/25820)
+[<img alt="HTML" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank">](https://www.devmedia.com.br/o-que-e-o-html5/25820)
 <br>
 <br>
 
-[<img alt="CSS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">](https://kenzie.com.br/blog/css3/)
+[<img alt="CSS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank">](https://kenzie.com.br/blog/css3/)
 <br>
 <br>
 
-[<img alt="Js" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://blog.betrybe.com/javascript/)
+[<img alt="Js" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank">](https://blog.betrybe.com/javascript/)
 <br>
 <br>
 <br>
@@ -64,9 +64,9 @@ Antes de começar, vai precisar ter instalado na sua máquina as seguintes ferra
 <br>
 <br>
 
-[Git Bash](https://git-scm.com)
+[<a target="_blank">Git Bash</a>](https://git-scm.com)
 
-[VS Code](https://code.visualstudio.com)
+[<a>VS Code</a>](https://code.visualstudio.com)
 <br>
 <br>
 
