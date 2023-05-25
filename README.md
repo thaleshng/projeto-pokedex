@@ -6,7 +6,11 @@
 <p align="center">Meu primeiro projeto frontend 😊</p> 
 <br>
 
-[<img src="./src/imagens/teaser-projeto.gif">](https://thaleshng.github.io/projeto-pokedex/)
+<div>
+    <a href="https://thaleshng.github.io/projeto-pokedex/" target="_blank"><img src="./src/imagens/teaser-projeto.gif" target="_blank"></a> 
+</div>
+
+<!-- [<img src="./src/imagens/teaser-projeto.gif">](https://thaleshng.github.io/projeto-pokedex/) -->
 
 <div align="center">
     <img height=20em src="https://img.shields.io/badge/-HTML-orange?style=plastic"><img>
